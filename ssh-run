@@ -1,0 +1,4 @@
+When you want to run ssh the before run these command
+
+1	eval 'ssh-agent'
+2	ssh-add ssh_key
